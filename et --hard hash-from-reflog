@@ -1,0 +1,29 @@
+[33m2e232ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from add-license to main
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{1}: checkout: moving from rename-experiment to add-license
+[33m8b13bc9[m[33m ([m[1;32mrename-experiment[m[33m)[m HEAD@{2}: checkout: moving from add-license to rename-experiment
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{3}: checkout: moving from rename-experiment to add-license
+[33m8b13bc9[m[33m ([m[1;32mrename-experiment[m[33m)[m HEAD@{4}: checkout: moving from add-author to rename-experiment
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{5}: checkout: moving from main to add-author
+[33m2e232ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: commit: Create LICENSE.md
+[33m593b8a4[m HEAD@{7}: pull: Fast-forward
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{8}: checkout: moving from add-license to main
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{9}: checkout: moving from main to add-license
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{10}: checkout: moving from main to main
+[33mb11c2e6[m[33m ([m[1;31morigin/add-license[m[33m, [m[1;32madd-license[m[33m)[m HEAD@{11}: commit (merge): Resolved merge conflict
+[33mf6c0e13[m HEAD@{12}: checkout: moving from rename-experiment to main
+[33m8b13bc9[m[33m ([m[1;32mrename-experiment[m[33m)[m HEAD@{13}: checkout: moving from main to rename-experiment
+[33mf6c0e13[m HEAD@{14}: commit: Rename project to Amazing on main
+[33m2a9a705[m HEAD@{15}: checkout: moving from main to main
+[33m2a9a705[m HEAD@{16}: reset: moving to HEAD
+[33m2a9a705[m HEAD@{17}: checkout: moving from rename-experiment to main
+[33m8b13bc9[m[33m ([m[1;32mrename-experiment[m[33m)[m HEAD@{18}: commit: Rename project to Wonderful on branch
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{19}: checkout: moving from main to rename-experiment
+[33m2a9a705[m HEAD@{20}: commit: Rename project to Amazing on main
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{21}: checkout: moving from rename-experiment to main
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{22}: checkout: moving from add-author to rename-experiment
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{23}: checkout: moving from main to add-author
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{24}: checkout: moving from add-author to main
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{25}: checkout: moving from main to add-author
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{26}: checkout: moving from add-author to main
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{27}: checkout: moving from main to add-author
+[33m828fc91[m[33m ([m[1;31morigin/add-author[m[33m, [m[1;32madd-author[m[33m)[m HEAD@{28}: clone: from https://github.com/Meow-nah-ngo/my-first-repo.git
